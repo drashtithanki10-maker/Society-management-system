@@ -1,1 +1,1 @@
-# Society-management-system
+# Quiz-management-system
